@@ -1,0 +1,26 @@
+{
+  "mlp_best_config": {
+    "context_length": 4,
+    "embedding_dim": 32,
+    "hidden_dim": 1024,
+    "lr": 0.0008010592528108037,
+    "weight_decay": 0.001,
+    "batch_size": 512,
+    "epochs": 10,
+    "seed": 0
+  },
+  "mlp_pe_best_config": {
+    "context_length": 4,
+    "embedding_dim": 32,
+    "hidden_dim": 1024,
+    "lr": 0.0011882679597077456,
+    "weight_decay": 0.001,
+    "batch_size": 512,
+    "epochs": 10,
+    "seed": 0,
+    "pos_embedding_dim": 24,
+    "max_pos": 20
+  },
+  "mlp_best_val_ppl": 7.6763888700723975,
+  "mlp_pe_best_val_ppl": 7.527480749902456
+}
