@@ -58,6 +58,7 @@ The notebook is resumable: training results are appended to JSONL logs, so a ker
 - 80/10/10 train/val/test split; all reported numbers are on test
 
 ## Citation
+If you reference this work:
 
 Bekoe,O. O. (2026). Position embeddings in a character-level Bengio MLP:
 a mechanism study.[ https://github.com/<your-username>/position-embeddings-bengio-mlp](https://github.com/Offei-op/position-embeddings-bengio-mlp)
